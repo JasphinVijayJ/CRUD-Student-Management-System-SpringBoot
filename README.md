@@ -49,15 +49,25 @@ CRUD-Student-Management-System-SpringBoot/
 │   │   │   ├── repository/
 
 │   │   │   ├── service/
+
 │   │   │   ├── StudentManagementApplication.java
+
 │   │   ├── resources/
+
 │   │   │   ├── static/ (CSS, JS)
+
 │   │   │   ├── templates/ (JSP files)
+
 │   │   │   ├── application.properties
+
 │-- pom.xml
+
 │-- README.md
 
+
+
 💾 Database Configuration (application.properties)
+
 
 spring.datasource.url=jdbc:mysql://localhost:3306/student_db
 spring.datasource.username=root
