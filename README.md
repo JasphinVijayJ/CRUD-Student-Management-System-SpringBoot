@@ -1,7 +1,9 @@
 CRUD Student Management System - Spring Boot
 
 📌 Description
+
 This is a CRUD (Create, Read, Update, Delete) Student Management System built using Spring Boot, JSP, Servlets, and MySQL. The application allows users to manage student records efficiently.
+
 
 🚀 Features
 
@@ -21,16 +23,25 @@ This is a CRUD (Create, Read, Update, Delete) Student Management System built us
 
 
 🛠️ Technologies Used
+
 Backend: Java, Spring Boot, JSP, Servlets
+
 Database: MySQL, Oracle SQL Queries
+
 Tools: Spring Tool Suite (STS), Eclipse, MySQL Workbench
+
 
 📂 Project Structure
 
+
 CRUD-Student-Management-System-SpringBoot/
+
 │-- src/
+
 │   ├── main/
+
 │   │   ├── java/com/example/studentmanagement/
+
 │   │   │   ├── controller/
 │   │   │   ├── model/
 │   │   │   ├── repository/
