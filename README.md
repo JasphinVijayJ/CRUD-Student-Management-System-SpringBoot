@@ -43,8 +43,11 @@ CRUD-Student-Management-System-SpringBoot/
 │   │   ├── java/com/example/studentmanagement/
 
 │   │   │   ├── controller/
+
 │   │   │   ├── model/
+
 │   │   │   ├── repository/
+
 │   │   │   ├── service/
 │   │   │   ├── StudentManagementApplication.java
 │   │   ├── resources/
